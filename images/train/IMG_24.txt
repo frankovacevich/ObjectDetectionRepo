@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_24.png
+width: 600
 height: 414
 class: 8s
-xmin: 228
-xmax: 454
-ymin: 82
-ymax: 350
+xmin: 205
+xmax: 475
+ymin: 122
+ymax: 356

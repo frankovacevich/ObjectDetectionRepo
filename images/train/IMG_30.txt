@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_30.png
+width: 600
 height: 414
 class: Ah
-xmin: 7
-xmax: 276
-ymin: 81
-ymax: 310
+xmin: 352
+xmax: 583
+ymin: 66
+ymax: 336

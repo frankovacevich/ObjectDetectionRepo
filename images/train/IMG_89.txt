@@ -1,0 +1,13 @@
+file: ObjectDetectionRepo/images/train/IMG_89.png
+width: 427
+height: 414
+class: Qs
+xmin: 163
+xmax: 380
+ymin: 98
+ymax: 363
+class: Ks
+xmin: 47
+xmax: 318
+ymin: 68
+ymax: 333

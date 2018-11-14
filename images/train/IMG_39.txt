@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_39.png
+width: 600
 height: 414
 class: Ks
-xmin: 154
-xmax: 395
-ymin: 66
-ymax: 338
+xmin: 91
+xmax: 250
+ymin: 132
+ymax: 365

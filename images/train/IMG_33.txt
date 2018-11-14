@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_33.png
+width: 600
 height: 414
 class: As
-xmin: 133
-xmax: 405
-ymin: 117
-ymax: 358
+xmin: 80
+xmax: 351
+ymin: 88
+ymax: 352

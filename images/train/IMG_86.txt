@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_86.png
+width: 427
+height: 414
+class: Qs
+xmin: 23
+xmax: 288
+ymin: 70
+ymax: 341

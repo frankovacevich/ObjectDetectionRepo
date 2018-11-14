@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_16.png
+width: 600
 height: 414
 class: 6s
-xmin: 320
-xmax: 591
-ymin: 39
-ymax: 304
+xmin: 39
+xmax: 311
+ymin: 101
+ymax: 363

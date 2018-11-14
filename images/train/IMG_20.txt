@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_20.png
+width: 600
 height: 414
 class: 7s
-xmin: 152
-xmax: 425
-ymin: 30
-ymax: 285
+xmin: 229
+xmax: 411
+ymin: 61
+ymax: 307

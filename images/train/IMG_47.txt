@@ -1,6 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_47.png
+width: 427
 height: 414
 class: 10s
-xmin: 167
-xmax: 402
-ymin: 142
-ymax: 305
+xmin: 25
+xmax: 290
+ymin: 103
+ymax: 374

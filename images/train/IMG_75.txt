@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_75.png
+width: 427
+height: 414
+class: Ah
+xmin: 61
+xmax: 332
+ymin: 75
+ymax: 340

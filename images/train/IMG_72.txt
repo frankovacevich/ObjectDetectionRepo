@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_72.png
+width: 427
+height: 414
+class: 9s
+xmin: 156
+xmax: 389
+ymin: 60
+ymax: 219

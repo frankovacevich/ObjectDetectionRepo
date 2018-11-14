@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/train/IMG_73.png
+width: 427
+height: 414
+class: 9s
+xmin: 37
+xmax: 303
+ymin: 153
+ymax: 373
