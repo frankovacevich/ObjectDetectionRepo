@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_28.png
+class: Ah
+xmin: 61
+xmax: 266
+ymin: 78
+ymax: 337

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_18.png
+class: 6s
+xmin: 222
+xmax: 495
+ymin: 139
+ymax: 399

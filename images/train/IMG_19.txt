@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_19.png
+class: 7s
+xmin: 33
+xmax: 264
+ymin: 133
+ymax: 403

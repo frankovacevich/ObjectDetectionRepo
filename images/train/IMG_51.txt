@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_51.png
+class: 2s
+xmin: 16
+xmax: 287
+ymin: 53
+ymax: 317

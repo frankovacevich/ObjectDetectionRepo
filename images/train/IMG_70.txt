@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_70.png
+class: 8s
+xmin: 121
+xmax: 395
+ymin: 137
+ymax: 388

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_20.png
+class: 7s
+xmin: 137
+xmax: 393
+ymin: 12
+ymax: 211

@@ -1,0 +1,16 @@
+file: IMAGESET/IMG_46.png
+class: 5s
+xmin: 209
+xmax: 479
+ymin: 10
+ymax: 244
+class: 6s
+xmin: 119
+xmax: 352
+ymin: 202
+ymax: 361
+class: As
+xmin: 61
+xmax: 333
+ymin: 150
+ymax: 411

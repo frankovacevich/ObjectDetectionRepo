@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_90.png
+class: 3s
+xmin: 80
+xmax: 333
+ymin: 71
+ymax: 345
+class: Ks
+xmin: 10
+xmax: 245
+ymin: 25
+ymax: 188

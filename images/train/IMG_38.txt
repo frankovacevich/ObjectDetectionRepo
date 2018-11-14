@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_38.png
+class: Ks
+xmin: 168
+xmax: 403
+ymin: 42
+ymax: 205

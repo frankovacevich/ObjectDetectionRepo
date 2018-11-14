@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_134.png
+class: Qs
+xmin: 40
+xmax: 284
+ymin: 88
+ymax: 329

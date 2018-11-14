@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_170.png
+class: As
+xmin: 137
+xmax: 518
+ymin: 37
+ymax: 405

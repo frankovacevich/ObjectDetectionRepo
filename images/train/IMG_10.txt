@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_10.png
+class: 4s
+xmin: 370
+xmax: 569
+ymin: 60
+ymax: 316

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_29.png
+class: Ah
+xmin: 319
+xmax: 557
+ymin: 52
+ymax: 324

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_54.png
+class: 3s
+xmin: 55
+xmax: 324
+ymin: 150
+ymax: 379

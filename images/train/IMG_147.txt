@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_147.png
+class: 3s
+xmin: 189
+xmax: 502
+ymin: 47
+ymax: 421

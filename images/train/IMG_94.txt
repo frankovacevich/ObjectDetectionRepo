@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_94.png
+class: 10s
+xmin: 19
+xmax: 259
+ymin: 107
+ymax: 352

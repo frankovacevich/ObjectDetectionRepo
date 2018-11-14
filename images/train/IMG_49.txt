@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_49.png
+class: 10s
+xmin: 196
+xmax: 348
+ymin: 173
+ymax: 401

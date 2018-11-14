@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_53.png
+class: 3s
+xmin: 55
+xmax: 317
+ymin: 119
+ymax: 391

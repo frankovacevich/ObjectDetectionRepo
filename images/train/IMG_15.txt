@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_15.png
+class: 5s
+xmin: 97
+xmax: 355
+ymin: 38
+ymax: 311

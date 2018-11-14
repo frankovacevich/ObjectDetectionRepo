@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_8.png
+class: 3s
+xmin: 101
+xmax: 264
+ymin: 34
+ymax: 269

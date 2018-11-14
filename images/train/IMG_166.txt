@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_166.png
+class: Ah
+xmin: 56
+xmax: 421
+ymin: 11
+ymax: 303

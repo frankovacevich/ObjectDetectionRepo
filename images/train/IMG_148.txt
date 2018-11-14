@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_148.png
+class: 4s
+xmin: 130
+xmax: 510
+ymin: 108
+ymax: 478

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_56.png
+class: 4s
+xmin: 12
+xmax: 266
+ymin: 128
+ymax: 324

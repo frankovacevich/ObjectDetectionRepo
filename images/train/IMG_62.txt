@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_62.png
+class: 6s
+xmin: 209
+xmax: 364
+ymin: 25
+ymax: 255

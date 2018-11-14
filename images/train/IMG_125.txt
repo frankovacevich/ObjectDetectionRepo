@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_125.png
+class: As
+xmin: 80
+xmax: 309
+ymin: 12
+ymax: 259

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_9.png
+class: 3s
+xmin: 189
+xmax: 443
+ymin: 136
+ymax: 332

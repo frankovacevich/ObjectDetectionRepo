@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_77.png
+class: As
+xmin: 133
+xmax: 388
+ymin: 111
+ymax: 384

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_5.png
+class: 2s
+xmin: 66
+xmax: 329
+ymin: 33
+ymax: 248

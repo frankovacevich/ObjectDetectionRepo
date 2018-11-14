@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_31.png
+class: As
+xmin: 255
+xmax: 437
+ymin: 63
+ymax: 309

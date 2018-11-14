@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_35.png
+class: Js
+xmin: 294
+xmax: 566
+ymin: 84
+ymax: 325

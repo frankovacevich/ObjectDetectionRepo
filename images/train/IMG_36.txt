@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_36.png
+class: Js
+xmin: 167
+xmax: 436
+ymin: 142
+ymax: 409

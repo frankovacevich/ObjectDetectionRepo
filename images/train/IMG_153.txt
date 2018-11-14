@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_153.png
+class: 5s
+xmin: 99
+xmax: 364
+ymin: 78
+ymax: 429

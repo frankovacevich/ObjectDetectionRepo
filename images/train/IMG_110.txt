@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_110.png
+class: 6s
+xmin: 230
+xmax: 422
+ymin: 107
+ymax: 344

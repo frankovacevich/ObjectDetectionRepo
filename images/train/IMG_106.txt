@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_106.png
+class: 5s
+xmin: 81
+xmax: 275
+ymin: 38
+ymax: 276

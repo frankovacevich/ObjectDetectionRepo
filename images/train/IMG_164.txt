@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_164.png
+class: 9s
+xmin: 69
+xmax: 329
+ymin: 44
+ymax: 392

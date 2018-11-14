@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_6.png
+class: 2s
+xmin: 79
+xmax: 350
+ymin: 4
+ymax: 269

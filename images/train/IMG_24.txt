@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_24.png
+class: 8s
+xmin: 68
+xmax: 341
+ymin: 86
+ymax: 331

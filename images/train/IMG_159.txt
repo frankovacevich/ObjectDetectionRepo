@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_159.png
+class: 7s
+xmin: 81
+xmax: 454
+ymin: 120
+ymax: 498

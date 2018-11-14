@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_63.png
+class: 6s
+xmin: 116
+xmax: 382
+ymin: 134
+ymax: 354

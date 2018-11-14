@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_27.png
+class: 9s
+xmin: 52
+xmax: 211
+ymin: 124
+ymax: 357

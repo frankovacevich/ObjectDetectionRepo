@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_111.png
+class: 7s
+xmin: 174
+xmax: 421
+ymin: 150
+ymax: 370

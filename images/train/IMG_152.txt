@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_152.png
+class: 5s
+xmin: 120
+xmax: 447
+ymin: 58
+ymax: 437

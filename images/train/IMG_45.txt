@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_45.png
+class: 4s
+xmin: 51
+xmax: 301
+ymin: 34
+ymax: 223
+class: 10s
+xmin: 3
+xmax: 277
+ymin: 88
+ymax: 339

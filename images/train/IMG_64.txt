@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_64.png
+class: 6s
+xmin: 147
+xmax: 310
+ymin: 150
+ymax: 385

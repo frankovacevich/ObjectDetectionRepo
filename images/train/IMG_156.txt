@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_156.png
+class: 6s
+xmin: 67
+xmax: 450
+ymin: 91
+ymax: 443

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_48.png
+class: 10s
+xmin: 113
+xmax: 333
+ymin: 62
+ymax: 328

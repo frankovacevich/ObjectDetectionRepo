@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_154.png
+class: 6s
+xmin: 300
+xmax: 518
+ymin: 60
+ymax: 382

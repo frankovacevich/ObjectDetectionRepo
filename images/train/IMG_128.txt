@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_128.png
+class: Js
+xmin: 206
+xmax: 453
+ymin: 74
+ymax: 298

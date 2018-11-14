@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_157.png
+class: 7s
+xmin: 138
+xmax: 489
+ymin: 285
+ymax: 550

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_25.png
+class: 9s
+xmin: 246
+xmax: 420
+ymin: 64
+ymax: 306

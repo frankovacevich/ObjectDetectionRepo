@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_133.png
+class: Qs
+xmin: 153
+xmax: 392
+ymin: 102
+ymax: 299

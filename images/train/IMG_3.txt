@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_3.png
+class: 10s
+xmin: 294
+xmax: 567
+ymin: 126
+ymax: 382

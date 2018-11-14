@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_82.png
+class: Js
+xmin: 21
+xmax: 278
+ymin: 134
+ymax: 336

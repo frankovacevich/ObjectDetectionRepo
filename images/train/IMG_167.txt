@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_167.png
+class: Ah
+xmin: 104
+xmax: 485
+ymin: 164
+ymax: 501

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_21.png
+class: 7s
+xmin: 412
+xmax: 586
+ymin: 128
+ymax: 370

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_39.png
+class: Ks
+xmin: 136
+xmax: 348
+ymin: 48
+ymax: 310

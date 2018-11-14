@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_26.png
+class: 9s
+xmin: 65
+xmax: 319
+ymin: 102
+ymax: 298

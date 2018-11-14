@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_95.png
+class: 10s
+xmin: 159
+xmax: 402
+ymin: 155
+ymax: 362

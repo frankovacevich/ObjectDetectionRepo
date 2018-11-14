@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_129.png
+class: Ks
+xmin: 235
+xmax: 473
+ymin: 94
+ymax: 288

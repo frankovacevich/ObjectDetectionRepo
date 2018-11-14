@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_126.png
+class: Js
+xmin: 86
+xmax: 313
+ymin: 109
+ymax: 356

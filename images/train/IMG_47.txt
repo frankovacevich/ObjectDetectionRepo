@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_47.png
+class: 10s
+xmin: 180
+xmax: 376
+ymin: 154
+ymax: 408

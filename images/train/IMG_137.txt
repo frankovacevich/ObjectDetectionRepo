@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_137.png
+class: 2s
+xmin: 194
+xmax: 435
+ymin: 2
+ymax: 246
+class: As
+xmin: 233
+xmax: 465
+ymin: 42
+ymax: 289

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_17.png
+class: 6s
+xmin: 312
+xmax: 562
+ymin: 126
+ymax: 315

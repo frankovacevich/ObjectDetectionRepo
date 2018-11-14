@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_161.png
+class: 8s
+xmin: 60
+xmax: 443
+ymin: 34
+ymax: 393

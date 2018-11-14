@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_67.png
+class: 7s
+xmin: 120
+xmax: 353
+ymin: 113
+ymax: 272

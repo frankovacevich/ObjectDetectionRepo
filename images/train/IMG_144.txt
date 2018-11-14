@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_144.png
+class: 2s
+xmin: 32
+xmax: 297
+ymin: 205
+ymax: 556

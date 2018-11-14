@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_34.png
+class: Js
+xmin: 131
+xmax: 343
+ymin: 40
+ymax: 302

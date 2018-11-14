@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_69.png
+class: 8s
+xmin: 57
+xmax: 301
+ymin: 55
+ymax: 233

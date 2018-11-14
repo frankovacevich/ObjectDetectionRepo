@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_87.png
+class: Qs
+xmin: 71
+xmax: 300
+ymin: 42
+ymax: 311

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_52.png
+class: 2s
+xmin: 132
+xmax: 393
+ymin: 12
+ymax: 284

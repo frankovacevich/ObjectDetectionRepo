@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_113.png
+class: 7s
+xmin: 156
+xmax: 401
+ymin: 24
+ymax: 236

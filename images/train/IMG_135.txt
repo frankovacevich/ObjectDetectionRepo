@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_135.png
+class: As
+xmin: 2
+xmax: 244
+ymin: 26
+ymax: 270
+class: 10s
+xmin: 83
+xmax: 245
+ymin: 57
+ymax: 278

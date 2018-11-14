@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_151.png
+class: 5s
+xmin: 81
+xmax: 394
+ymin: 171
+ymax: 545

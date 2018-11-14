@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_71.png
+class: 9s
+xmin: 13
+xmax: 282
+ymin: 131
+ymax: 360

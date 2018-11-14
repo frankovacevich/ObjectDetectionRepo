@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_61.png
+class: 5s
+xmin: 73
+xmax: 342
+ymin: 54
+ymax: 283

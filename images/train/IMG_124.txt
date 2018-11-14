@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_124.png
+class: As
+xmin: 139
+xmax: 349
+ymin: 197
+ymax: 342

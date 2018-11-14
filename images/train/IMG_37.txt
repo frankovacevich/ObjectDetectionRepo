@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_37.png
+class: Ks
+xmin: 11
+xmax: 258
+ymin: 56
+ymax: 329

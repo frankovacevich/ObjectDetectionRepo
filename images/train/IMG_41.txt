@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_41.png
+class: Qs
+xmin: 55
+xmax: 295
+ymin: 146
+ymax: 317

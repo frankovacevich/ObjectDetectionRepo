@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_149.png
+class: 4s
+xmin: 163
+xmax: 496
+ymin: 229
+ymax: 463

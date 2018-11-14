@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_120.png
+class: Ah
+xmin: 178
+xmax: 416
+ymin: 128
+ymax: 374

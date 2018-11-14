@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_58.png
+class: 4s
+xmin: 27
+xmax: 293
+ymin: 5
+ymax: 225

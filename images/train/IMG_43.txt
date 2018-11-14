@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_43.png
+class: 3s
+xmin: 75
+xmax: 328
+ymin: 76
+ymax: 350
+class: 6s
+xmin: 317
+xmax: 480
+ymin: 166
+ymax: 401

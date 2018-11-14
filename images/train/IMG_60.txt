@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_60.png
+class: 5s
+xmin: 150
+xmax: 342
+ymin: 77
+ymax: 329

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_172.png
+class: Js
+xmin: 32
+xmax: 412
+ymin: 84
+ymax: 454

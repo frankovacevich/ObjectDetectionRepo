@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_13.png
+class: 5s
+xmin: 150
+xmax: 313
+ymin: 59
+ymax: 294

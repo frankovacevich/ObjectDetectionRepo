@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_174.png
+class: Js
+xmin: 85
+xmax: 411
+ymin: 226
+ymax: 450

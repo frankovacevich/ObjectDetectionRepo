@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_141.png
+class: 10s
+xmin: 224
+xmax: 448
+ymin: 237
+ymax: 563

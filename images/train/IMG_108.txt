@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_108.png
+class: 6s
+xmin: 190
+xmax: 405
+ymin: 23
+ymax: 175

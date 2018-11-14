@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_105.png
+class: 5s
+xmin: 86
+xmax: 317
+ymin: 62
+ymax: 242

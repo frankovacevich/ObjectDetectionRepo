@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_146.png
+class: 3s
+xmin: 44
+xmax: 427
+ymin: 193
+ymax: 545

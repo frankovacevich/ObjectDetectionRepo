@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_66.png
+class: 7s
+xmin: 124
+xmax: 375
+ymin: 2
+ymax: 276

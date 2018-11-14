@@ -1,0 +1,11 @@
+file: IMAGESET/IMG_44.png
+class: 10s
+xmin: 296
+xmax: 513
+ymin: 22
+ymax: 287
+class: 8s
+xmin: 2
+xmax: 245
+ymin: 60
+ymax: 333

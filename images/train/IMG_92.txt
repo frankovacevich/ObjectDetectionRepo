@@ -1,0 +1,16 @@
+file: IMAGESET/IMG_92.png
+class: Ah
+xmin: 106
+xmax: 344
+ymin: 63
+ymax: 230
+class: As
+xmin: 15
+xmax: 285
+ymin: 137
+ymax: 371
+class: Js
+xmin: 30
+xmax: 303
+ymin: 143
+ymax: 401

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_57.png
+class: 4s
+xmin: 130
+xmax: 326
+ymin: 44
+ymax: 298

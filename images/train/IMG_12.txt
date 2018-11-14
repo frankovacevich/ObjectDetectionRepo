@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_12.png
+class: 4s
+xmin: 122
+xmax: 370
+ymin: 184
+ymax: 369

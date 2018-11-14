@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_142.png
+class: 2s
+xmin: 193
+xmax: 467
+ymin: 62
+ymax: 418

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_4.png
+class: 2s
+xmin: 145
+xmax: 337
+ymin: 70
+ymax: 322

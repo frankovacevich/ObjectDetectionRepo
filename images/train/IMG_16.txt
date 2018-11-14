@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_16.png
+class: 6s
+xmin: 89
+xmax: 343
+ymin: 17
+ymax: 213

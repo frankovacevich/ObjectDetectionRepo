@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_112.png
+class: 7s
+xmin: 223
+xmax: 469
+ymin: 33
+ymax: 269

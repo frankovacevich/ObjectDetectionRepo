@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_99.png
+class: 3s
+xmin: 92
+xmax: 233
+ymin: 140
+ymax: 348

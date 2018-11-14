@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_1.png
+class: 10s
+xmin: 80
+xmax: 340
+ymin: 69
+ymax: 342

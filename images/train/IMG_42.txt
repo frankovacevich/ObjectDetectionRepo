@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_42.png
+class: Qs
+xmin: 231
+xmax: 481
+ymin: 30
+ymax: 219

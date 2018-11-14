@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_97.png
+class: 2s
+xmin: 64
+xmax: 307
+ymin: 54
+ymax: 297

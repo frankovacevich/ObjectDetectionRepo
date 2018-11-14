@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_131.png
+class: Ks
+xmin: 71
+xmax: 314
+ymin: 167
+ymax: 374

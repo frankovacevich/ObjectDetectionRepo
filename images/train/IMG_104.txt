@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_104.png
+class: 4s
+xmin: 106
+xmax: 254
+ymin: 18
+ymax: 230

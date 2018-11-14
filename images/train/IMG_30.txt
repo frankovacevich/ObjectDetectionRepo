@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_30.png
+class: Ah
+xmin: 15
+xmax: 257
+ymin: 151
+ymax: 325

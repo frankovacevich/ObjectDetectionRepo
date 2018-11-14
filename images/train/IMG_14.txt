@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_14.png
+class: 5s
+xmin: 254
+xmax: 521
+ymin: 73
+ymax: 342

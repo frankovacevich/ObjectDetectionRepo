@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_68.png
+class: 8s
+xmin: 27
+xmax: 298
+ymin: 98
+ymax: 334

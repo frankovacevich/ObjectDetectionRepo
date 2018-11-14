@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_74.png
+class: Ah
+xmin: 31
+xmax: 299
+ymin: 36
+ymax: 262

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_116.png
+class: 8s
+xmin: 88
+xmax: 308
+ymin: 67
+ymax: 314

@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_163.png
+class: 9s
+xmin: 156
+xmax: 522
+ymin: 158
+ymax: 539

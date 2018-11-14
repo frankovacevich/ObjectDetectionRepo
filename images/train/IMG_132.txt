@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_132.png
+class: Qs
+xmin: 27
+xmax: 269
+ymin: 49
+ymax: 293

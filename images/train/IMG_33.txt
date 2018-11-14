@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_33.png
+class: As
+xmin: 14
+xmax: 268
+ymin: 64
+ymax: 260

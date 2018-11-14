@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_122.png
+class: Ah
+xmin: 186
+xmax: 375
+ymin: 117
+ymax: 353

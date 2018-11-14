@@ -1,0 +1,6 @@
+file: IMAGESET/IMG_40.png
+class: Qs
+xmin: 344
+xmax: 499
+ymin: 66
+ymax: 296
