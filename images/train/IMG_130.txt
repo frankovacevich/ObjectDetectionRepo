@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_130.png
-class: Ks
-xmin: 145
-xmax: 347
-ymin: 20
-ymax: 261

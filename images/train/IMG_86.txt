@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_86.png
-class: Qs
-xmin: 78
-xmax: 348
-ymin: 59
-ymax: 290

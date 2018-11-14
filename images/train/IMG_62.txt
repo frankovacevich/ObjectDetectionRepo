@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_62.png
+height: 414
 class: 6s
-xmin: 209
-xmax: 364
-ymin: 25
-ymax: 255
+xmin: 73
+xmax: 258
+ymin: 37
+ymax: 285

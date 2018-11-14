@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_107.png
-class: 5s
-xmin: 72
-xmax: 240
-ymin: 112
-ymax: 337

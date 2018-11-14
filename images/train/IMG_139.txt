@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_139.png
-class: 10s
-xmin: 10
-xmax: 393
-ymin: 188
-ymax: 540

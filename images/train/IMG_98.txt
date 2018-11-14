@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_98.png
-class: 2s
-xmin: 195
-xmax: 441
-ymin: 76
-ymax: 312

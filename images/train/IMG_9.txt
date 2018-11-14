@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_9.png
+height: 414
 class: 3s
-xmin: 189
-xmax: 443
-ymin: 136
-ymax: 332
+xmin: 256
+xmax: 516
+ymin: 25
+ymax: 298

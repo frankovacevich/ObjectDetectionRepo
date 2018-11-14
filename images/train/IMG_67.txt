@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_67.png
+height: 414
 class: 7s
-xmin: 120
-xmax: 353
-ymin: 113
-ymax: 272
+xmin: 154
+xmax: 427
+ymin: 44
+ymax: 304

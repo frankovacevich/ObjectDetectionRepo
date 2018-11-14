@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_39.png
+height: 414
 class: Ks
-xmin: 136
-xmax: 348
-ymin: 48
-ymax: 310
+xmin: 154
+xmax: 395
+ymin: 66
+ymax: 338

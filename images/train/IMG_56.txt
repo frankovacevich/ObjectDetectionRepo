@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_56.png
+height: 414
 class: 4s
-xmin: 12
-xmax: 266
-ymin: 128
-ymax: 324
+xmin: 36
+xmax: 303
+ymin: 30
+ymax: 253

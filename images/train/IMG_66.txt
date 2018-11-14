@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_66.png
+height: 414
 class: 7s
-xmin: 124
-xmax: 375
-ymin: 2
-ymax: 276
+xmin: 148
+xmax: 412
+ymin: 133
+ymax: 404

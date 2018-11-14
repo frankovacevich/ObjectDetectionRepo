@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_140.png
-class: 10s
-xmin: 186
-xmax: 441
-ymin: 149
-ymax: 494

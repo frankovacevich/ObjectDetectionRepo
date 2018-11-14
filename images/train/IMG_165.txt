@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_165.png
-class: 9s
-xmin: 44
-xmax: 426
-ymin: 198
-ymax: 538

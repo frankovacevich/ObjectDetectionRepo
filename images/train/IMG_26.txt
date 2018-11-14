@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_26.png
+height: 414
 class: 9s
-xmin: 65
-xmax: 319
-ymin: 102
-ymax: 298
+xmin: 174
+xmax: 416
+ymin: 26
+ymax: 200

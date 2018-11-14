@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_103.png
-class: 4s
-xmin: 126
-xmax: 338
-ymin: 52
-ymax: 297

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_17.png
+height: 414
 class: 6s
-xmin: 312
-xmax: 562
-ymin: 126
-ymax: 315
+xmin: 82
+xmax: 333
+ymin: 23
+ymax: 297

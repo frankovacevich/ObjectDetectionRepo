@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_29.png
+height: 414
 class: Ah
-xmin: 319
-xmax: 557
-ymin: 52
-ymax: 324
+xmin: 37
+xmax: 189
+ymin: 108
+ymax: 336

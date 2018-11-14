@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_158.png
-class: 7s
-xmin: 0
-xmax: 383
-ymin: 2
-ymax: 351

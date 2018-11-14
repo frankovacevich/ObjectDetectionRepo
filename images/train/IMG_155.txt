@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_155.png
-class: 6s
-xmin: 65
-xmax: 407
-ymin: 201
-ymax: 451

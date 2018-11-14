@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_117.png
-class: 9s
-xmin: 256
-xmax: 497
-ymin: 101
-ymax: 303

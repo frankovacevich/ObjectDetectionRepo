@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_84.png
-class: Ks
-xmin: 21
-xmax: 287
-ymin: 14
-ymax: 284

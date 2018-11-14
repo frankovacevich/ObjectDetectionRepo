@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_70.png
+height: 414
 class: 8s
-xmin: 121
-xmax: 395
-ymin: 137
-ymax: 388
+xmin: 116
+xmax: 368
+ymin: 12
+ymax: 204

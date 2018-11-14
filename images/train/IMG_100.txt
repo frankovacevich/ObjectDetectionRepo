@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_100.png
-class: 3s
-xmin: 129
-xmax: 372
-ymin: 61
-ymax: 268

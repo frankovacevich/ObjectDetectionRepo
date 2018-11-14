@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_41.png
+height: 414
 class: Qs
-xmin: 55
-xmax: 295
-ymin: 146
-ymax: 317
+xmin: 193
+xmax: 405
+ymin: 68
+ymax: 330

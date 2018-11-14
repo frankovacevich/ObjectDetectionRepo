@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_22.png
+height: 414
 class: 8s
-xmin: 28
-xmax: 258
-ymin: 134
-ymax: 289
+xmin: 248
+xmax: 497
+ymin: 123
+ymax: 396

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_53.png
+height: 414
 class: 3s
-xmin: 55
-xmax: 317
-ymin: 119
-ymax: 391
+xmin: 185
+xmax: 344
+ymin: 146
+ymax: 379

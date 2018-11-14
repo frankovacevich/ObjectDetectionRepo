@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_23.png
+height: 414
 class: 8s
-xmin: 330
-xmax: 593
-ymin: 70
-ymax: 285
+xmin: 0
+xmax: 217
+ymin: 119
+ymax: 384

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_61.png
+height: 414
 class: 5s
-xmin: 73
-xmax: 342
-ymin: 54
-ymax: 283
+xmin: 195
+xmax: 400
+ymin: 91
+ymax: 350

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_51.png
+height: 414
 class: 2s
-xmin: 16
-xmax: 287
-ymin: 53
-ymax: 317
+xmin: 82
+xmax: 330
+ymin: 13
+ymax: 198

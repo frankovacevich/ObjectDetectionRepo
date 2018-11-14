@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_14.png
+height: 414
 class: 5s
-xmin: 254
-xmax: 521
-ymin: 73
-ymax: 342
+xmin: 159
+xmax: 351
+ymin: 141
+ymax: 393

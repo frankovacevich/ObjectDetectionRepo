@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_7.png
+height: 414
 class: 3s
-xmin: 91
-xmax: 334
-ymin: 60
-ymax: 333
+xmin: 234
+xmax: 498
+ymin: 63
+ymax: 334

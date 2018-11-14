@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_30.png
+height: 414
 class: Ah
-xmin: 15
-xmax: 257
-ymin: 151
-ymax: 325
+xmin: 7
+xmax: 276
+ymin: 81
+ymax: 310

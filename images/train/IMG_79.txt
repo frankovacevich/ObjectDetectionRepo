@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_79.png
-class: As
-xmin: 157
-xmax: 422
-ymin: 131
-ymax: 402

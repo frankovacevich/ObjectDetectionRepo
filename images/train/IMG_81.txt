@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_81.png
-class: Js
-xmin: 92
-xmax: 334
-ymin: 125
-ymax: 299

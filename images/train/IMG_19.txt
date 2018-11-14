@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_19.png
+height: 414
 class: 7s
-xmin: 33
-xmax: 264
-ymin: 133
-ymax: 403
+xmin: 269
+xmax: 540
+ymin: 99
+ymax: 335

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_36.png
+height: 414
 class: Js
-xmin: 167
-xmax: 436
-ymin: 142
-ymax: 409
+xmin: 182
+xmax: 432
+ymin: 49
+ymax: 238

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_13.png
+height: 414
 class: 5s
-xmin: 150
-xmax: 313
-ymin: 59
-ymax: 294
+xmin: 130
+xmax: 395
+ymin: 193
+ymax: 410

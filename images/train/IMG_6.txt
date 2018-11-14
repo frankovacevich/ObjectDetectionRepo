@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_6.png
+height: 414
 class: 2s
-xmin: 79
-xmax: 350
-ymin: 4
-ymax: 269
+xmin: 199
+xmax: 453
+ymin: 88
+ymax: 284

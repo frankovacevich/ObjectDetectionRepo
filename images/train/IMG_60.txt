@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_60.png
+height: 414
 class: 5s
-xmin: 150
-xmax: 342
-ymin: 77
-ymax: 329
+xmin: 46
+xmax: 281
+ymin: 174
+ymax: 337

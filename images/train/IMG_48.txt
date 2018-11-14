@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_48.png
+height: 414
 class: 10s
-xmin: 113
-xmax: 333
-ymin: 62
-ymax: 328
+xmin: 103
+xmax: 339
+ymin: 34
+ymax: 305

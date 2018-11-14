@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_85.png
-class: Ks
-xmin: 61
-xmax: 235
-ymin: 158
-ymax: 400

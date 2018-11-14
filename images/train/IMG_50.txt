@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_50.png
+height: 414
 class: 2s
-xmin: 102
-xmax: 370
-ymin: 72
-ymax: 340
+xmin: 70
+xmax: 327
+ymin: 133
+ymax: 335

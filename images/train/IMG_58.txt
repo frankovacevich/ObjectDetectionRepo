@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_58.png
+height: 414
 class: 4s
-xmin: 27
-xmax: 293
-ymin: 5
-ymax: 225
+xmin: 1
+xmax: 274
+ymin: 83
+ymax: 332

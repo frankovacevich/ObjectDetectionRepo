@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_2.png
+height: 414
 class: 10s
-xmin: 165
-xmax: 438
-ymin: 31
-ymax: 287
+xmin: 123
+xmax: 354
+ymin: 20
+ymax: 290

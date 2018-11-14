@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_5.png
+height: 414
 class: 2s
-xmin: 66
-xmax: 329
-ymin: 33
-ymax: 248
+xmin: 75
+xmax: 345
+ymin: 176
+ymax: 410

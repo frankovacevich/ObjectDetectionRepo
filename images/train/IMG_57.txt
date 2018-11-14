@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_57.png
+height: 414
 class: 4s
-xmin: 130
-xmax: 326
-ymin: 44
-ymax: 298
+xmin: 41
+xmax: 314
+ymin: 30
+ymax: 290

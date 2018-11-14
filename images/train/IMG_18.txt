@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_18.png
+height: 414
 class: 6s
-xmin: 222
-xmax: 495
-ymin: 139
-ymax: 399
+xmin: 320
+xmax: 483
+ymin: 153
+ymax: 388

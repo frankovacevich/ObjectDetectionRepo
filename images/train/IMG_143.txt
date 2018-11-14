@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_143.png
-class: 2s
-xmin: 32
-xmax: 413
-ymin: 15
-ymax: 352

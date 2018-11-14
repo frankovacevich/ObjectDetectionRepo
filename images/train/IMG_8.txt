@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_8.png
+height: 414
 class: 3s
-xmin: 101
-xmax: 264
-ymin: 34
+xmin: 131
+xmax: 403
+ymin: 28
 ymax: 269

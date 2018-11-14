@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_145.png
-class: 3s
-xmin: 15
-xmax: 379
-ymin: 61
-ymax: 443

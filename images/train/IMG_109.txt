@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_109.png
-class: 6s
-xmin: 211
-xmax: 418
-ymin: 126
-ymax: 369

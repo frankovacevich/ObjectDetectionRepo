@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_16.png
+height: 414
 class: 6s
-xmin: 89
-xmax: 343
-ymin: 17
-ymax: 213
+xmin: 320
+xmax: 591
+ymin: 39
+ymax: 304

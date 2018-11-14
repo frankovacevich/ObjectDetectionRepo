@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_37.png
+height: 414
 class: Ks
-xmin: 11
-xmax: 258
-ymin: 56
-ymax: 329
+xmin: 17
+xmax: 283
+ymin: 129
+ymax: 349

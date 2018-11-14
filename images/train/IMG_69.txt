@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_69.png
+height: 414
 class: 8s
-xmin: 57
-xmax: 301
-ymin: 55
-ymax: 233
+xmin: 138
+xmax: 411
+ymin: 114
+ymax: 363

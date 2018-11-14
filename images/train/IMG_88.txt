@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_88.png
-class: Qs
-xmin: 136
-xmax: 392
-ymin: 36
-ymax: 309

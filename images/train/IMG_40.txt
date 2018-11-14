@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_40.png
+height: 414
 class: Qs
-xmin: 344
-xmax: 499
-ymin: 66
-ymax: 296
+xmin: 167
+xmax: 345
+ymin: 133
+ymax: 377

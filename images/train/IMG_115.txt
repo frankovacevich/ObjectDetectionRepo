@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_115.png
-class: 8s
-xmin: 230
-xmax: 477
-ymin: 11
-ymax: 231

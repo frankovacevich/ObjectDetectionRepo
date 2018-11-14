@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_65.png
+height: 414
 class: 7s
-xmin: 7
-xmax: 245
-ymin: 52
-ymax: 324
+xmin: 20
+xmax: 291
+ymin: 55
+ymax: 291

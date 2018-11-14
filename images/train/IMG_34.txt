@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_34.png
+height: 414
 class: Js
-xmin: 131
-xmax: 343
-ymin: 40
-ymax: 302
+xmin: 58
+xmax: 306
+ymin: 85
+ymax: 270

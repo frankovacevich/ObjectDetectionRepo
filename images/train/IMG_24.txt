@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_24.png
+height: 414
 class: 8s
-xmin: 68
-xmax: 341
-ymin: 86
-ymax: 331
+xmin: 228
+xmax: 454
+ymin: 82
+ymax: 350

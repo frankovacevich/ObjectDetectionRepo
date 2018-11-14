@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_15.png
+height: 414
 class: 5s
-xmin: 97
-xmax: 355
-ymin: 38
-ymax: 311
+xmin: 53
+xmax: 315
+ymin: 175
+ymax: 387

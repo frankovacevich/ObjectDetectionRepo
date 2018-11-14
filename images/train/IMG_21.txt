@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_21.png
+height: 414
 class: 7s
-xmin: 412
-xmax: 586
-ymin: 128
-ymax: 370
+xmin: 27
+xmax: 273
+ymin: 190
+ymax: 372

@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_168.png
-class: Ah
-xmin: 108
-xmax: 490
-ymin: 44
-ymax: 384

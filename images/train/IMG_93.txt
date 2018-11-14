@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_93.png
-class: 10s
-xmin: 114
-xmax: 320
-ymin: 40
-ymax: 178

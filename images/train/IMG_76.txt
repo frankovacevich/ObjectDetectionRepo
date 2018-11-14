@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_76.png
-class: Ah
-xmin: 79
-xmax: 325
-ymin: 140
-ymax: 322

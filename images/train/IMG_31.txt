@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_31.png
+height: 414
 class: As
-xmin: 255
-xmax: 437
-ymin: 63
-ymax: 309
+xmin: 310
+xmax: 580
+ymin: 25
+ymax: 259

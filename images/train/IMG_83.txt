@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_83.png
-class: Ks
-xmin: 29
-xmax: 272
-ymin: 100
-ymax: 373

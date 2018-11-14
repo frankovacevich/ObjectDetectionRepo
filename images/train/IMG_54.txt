@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_54.png
+height: 414
 class: 3s
-xmin: 55
-xmax: 324
-ymin: 150
-ymax: 379
+xmin: 145
+xmax: 365
+ymin: 116
+ymax: 382

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_71.png
+height: 414
 class: 9s
-xmin: 13
-xmax: 282
-ymin: 131
-ymax: 360
+xmin: 42
+xmax: 299
+ymin: 179
+ymax: 381

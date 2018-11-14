@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_118.png
-class: 9s
-xmin: 246
-xmax: 453
-ymin: 127
-ymax: 370

@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_123.png
-class: As
-xmin: 28
-xmax: 258
-ymin: 8
-ymax: 185

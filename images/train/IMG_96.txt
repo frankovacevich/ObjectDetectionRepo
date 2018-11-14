@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_96.png
-class: 2s
-xmin: 174
-xmax: 357
-ymin: 68
-ymax: 301

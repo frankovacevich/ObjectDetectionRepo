@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_114.png
-class: 8s
-xmin: 204
-xmax: 375
-ymin: 62
-ymax: 288

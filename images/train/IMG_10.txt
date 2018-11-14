@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_10.png
+height: 414
 class: 4s
-xmin: 370
-xmax: 569
-ymin: 60
-ymax: 316
+xmin: 315
+xmax: 586
+ymin: 101
+ymax: 366

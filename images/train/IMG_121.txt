@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_121.png
-class: Ah
-xmin: 81
-xmax: 307
-ymin: 122
-ymax: 369

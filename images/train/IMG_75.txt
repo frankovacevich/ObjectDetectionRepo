@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_75.png
-class: Ah
-xmin: 105
-xmax: 366
-ymin: 64
-ymax: 336

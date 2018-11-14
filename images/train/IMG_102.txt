@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_102.png
-class: 4s
-xmin: 161
-xmax: 375
-ymin: 12
-ymax: 257

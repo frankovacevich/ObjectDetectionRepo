@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_73.png
-class: 9s
-xmin: 143
-xmax: 383
-ymin: 210
-ymax: 381

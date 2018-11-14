@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_150.png
-class: 4s
-xmin: 7
-xmax: 377
-ymin: 249
-ymax: 554

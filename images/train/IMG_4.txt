@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_4.png
+height: 414
 class: 2s
-xmin: 145
-xmax: 337
-ymin: 70
-ymax: 322
+xmin: 117
+xmax: 388
+ymin: 100
+ymax: 336

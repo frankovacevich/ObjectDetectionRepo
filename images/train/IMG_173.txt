@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_173.png
-class: Js
-xmin: 15
-xmax: 398
-ymin: 98
-ymax: 444

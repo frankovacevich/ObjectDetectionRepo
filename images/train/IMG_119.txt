@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_119.png
-class: 9s
-xmin: 151
-xmax: 398
-ymin: 79
-ymax: 310

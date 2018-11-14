@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_28.png
+height: 414
 class: Ah
-xmin: 61
-xmax: 266
-ymin: 78
-ymax: 337
+xmin: 270
+xmax: 519
+ymin: 27
+ymax: 300

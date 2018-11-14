@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_1.png
+height: 414
 class: 10s
-xmin: 80
-xmax: 340
-ymin: 69
-ymax: 342
+xmin: 287
+xmax: 556
+ymin: 73
+ymax: 340

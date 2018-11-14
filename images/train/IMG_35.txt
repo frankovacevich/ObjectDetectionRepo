@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_35.png
+height: 414
 class: Js
-xmin: 294
-xmax: 566
-ymin: 84
-ymax: 325
+xmin: 139
+xmax: 313
+ymin: 6
+ymax: 248

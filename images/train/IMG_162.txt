@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_162.png
-class: 8s
-xmin: 34
-xmax: 308
-ymin: 53
-ymax: 409

@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_27.png
+height: 414
 class: 9s
-xmin: 52
-xmax: 211
-ymin: 124
-ymax: 357
+xmin: 46
+xmax: 299
+ymin: 107
+ymax: 381

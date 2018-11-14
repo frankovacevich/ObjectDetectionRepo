@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_63.png
+height: 414
 class: 6s
-xmin: 116
-xmax: 382
-ymin: 134
-ymax: 354
+xmin: 13
+xmax: 195
+ymin: 84
+ymax: 330

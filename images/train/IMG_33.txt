@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_33.png
+height: 414
 class: As
-xmin: 14
-xmax: 268
-ymin: 64
-ymax: 260
+xmin: 133
+xmax: 405
+ymin: 117
+ymax: 358

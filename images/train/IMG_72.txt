@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_72.png
-class: 9s
-xmin: 83
-xmax: 349
-ymin: 131
-ymax: 401

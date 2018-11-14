@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_52.png
+height: 414
 class: 2s
-xmin: 132
-xmax: 393
-ymin: 12
-ymax: 284
+xmin: 177
+xmax: 424
+ymin: 30
+ymax: 303

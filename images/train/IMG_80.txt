@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_80.png
-class: Js
-xmin: 139
-xmax: 375
-ymin: 115
-ymax: 386

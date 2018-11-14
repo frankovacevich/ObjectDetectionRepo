@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_20.png
+height: 414
 class: 7s
-xmin: 137
-xmax: 393
-ymin: 12
-ymax: 211
+xmin: 152
+xmax: 425
+ymin: 30
+ymax: 285

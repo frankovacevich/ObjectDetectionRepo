@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_160.png
-class: 8s
-xmin: 65
-xmax: 437
-ymin: 115
-ymax: 424

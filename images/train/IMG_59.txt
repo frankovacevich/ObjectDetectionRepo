@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_59.png
+height: 414
 class: 5s
-xmin: 91
-xmax: 353
-ymin: 58
-ymax: 330
+xmin: 22
+xmax: 262
+ymin: 30
+ymax: 201

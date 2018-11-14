@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_78.png
-class: As
-xmin: 0
-xmax: 192
-ymin: 158
-ymax: 410

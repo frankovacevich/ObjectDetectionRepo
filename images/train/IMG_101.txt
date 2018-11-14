@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_101.png
-class: 3s
-xmin: 340
-xmax: 488
-ymin: 159
-ymax: 371

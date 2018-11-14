@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_171.png
-class: As
-xmin: 32
-xmax: 412
-ymin: 162
-ymax: 532

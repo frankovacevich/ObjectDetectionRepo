@@ -1,6 +1,6 @@
-file: IMAGESET/IMG_68.png
+height: 414
 class: 8s
-xmin: 27
-xmax: 298
-ymin: 98
-ymax: 334
+xmin: 57
+xmax: 285
+ymin: 235
+ymax: 387

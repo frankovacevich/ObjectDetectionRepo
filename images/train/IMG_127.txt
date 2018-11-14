@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_127.png
-class: Js
-xmin: 83
-xmax: 224
-ymin: 127
-ymax: 335

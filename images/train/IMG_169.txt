@@ -1,6 +1,0 @@
-file: IMAGESET/IMG_169.png
-class: As
-xmin: 197
-xmax: 528
-ymin: 131
-ymax: 511
