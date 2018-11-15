@@ -5,7 +5,7 @@ import sys
 
 DIR = "ObjectDetectionRepo/images/"
 
-imageblack = img.readImg("DECK/back.png")
+imageblack = img.readImg(DIR + "DECK/back.png")
 i_write = 0 #Index for writing the images
 
 def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, Ntrios = 1):
