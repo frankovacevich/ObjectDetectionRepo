@@ -105,7 +105,7 @@ def place_card_at_random_position(background_image, card_image):
     card_image = img.scaleImg(card_image,scale_factor)
     card_image = img.rotateImg(card_image,random.randint(0,360))
 
-    w, h, c = img.getImgSize(card_image)
+    w,h,c = img.getImgSize(card_image)
     xmin = random.randint(0,W-w)
     ymin = random.randint(0,H-h)
     xmax = xmin + w
@@ -122,9 +122,9 @@ def get_card_image_set():
               vector of tuples (class, image)
     """
     CARD_IMAGES = []
-    for file in os.listdir("ObjectDetectionRepo/images/DECK"):
+    for file in os.listdir(DIR + "DECK"):
         if not file == "back.png":
-            CARD_IMAGES.append((remove_extension(file), img.readImg("DECK/" + file)))
+            CARD_IMAGES.append((remove_extension(file), img.readImg(DIR + "DECK/" + file)))
     return CARD_IMAGES
 
 def remove_extension(file):
@@ -144,6 +144,3 @@ elif argc == 2:
     GenerateSet(argv[1])
 elif argc == 6:
     GenerateSet(argv[1],int(argv[2]),int(argv[3]),int(argv[4]),int(argv[5]))
-
-
-
