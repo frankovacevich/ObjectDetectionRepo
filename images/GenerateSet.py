@@ -3,6 +3,8 @@ import random
 import os
 import sys
 
+DIR = "ObjectDetectionRepo/images/"
+
 imageblack = img.readImg("DECK/back.png")
 i_write = 0 #Index for writing the images
 
@@ -24,7 +26,7 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
     TotalNumberOfBackgrounds = 1800
     StepSize = int(TotalNumberOfBackgrounds / N_backgrounds)
     i = 0
-    with open("ObjectDetectionRepo/images/BACKGROUNDS/labels/test1.txt") as background_list:
+    with open(DIR + "BACKGROUNDS/labels/test1.txt") as background_list:
         for line in background_list:
             i += 1
             if i != StepSize:
@@ -32,7 +34,7 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
             i = 0
 
             line = line.replace("\n","")
-            background_image = img.readImg("BACKGROUNDS/images/" + line)
+            background_image = img.readImg(DIR + "BACKGROUNDS/images/" + line)
 
             ##GENERATE SINGLE SET
             for card in CARD_IMAGES:
@@ -67,14 +69,14 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
                 rectangle3.append(card3[0])
                 save_image_and_label(image, [rectangle1, rectangle2, rectangle3], set_name)
 
-def save_image_and_label(image, rectangles,set_name):
+def save_image_and_label(image, rectangles, set_name):
     global i_write
     i_write += 1
     filename = "IMG_" + str(i_write)
-    img.saveToFile(image, set_name + "/" + filename + ".png")
+    img.saveToFile(image,DIR + set_name + "/" + filename + ".png")
     w,h,c = img.getImgSize(image)
 
-    metadata =  "file: " + "ObjectDetectionRepo/images/" + set_name + "/" + filename + ".png"
+    metadata =  "file: " + DIR + set_name + "/" + filename + ".png"
     metadata += "\nwidth: " + str(w)
     metadata += "\nheight: " + str(h)
 
