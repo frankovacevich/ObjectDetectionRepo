@@ -118,9 +118,9 @@ def get_card_image_set():
               vector of tuples (class, image)
     """
     CARD_IMAGES = []
-    for file in os.listdir(os.getcwd() + "/DECK"):
+    for file in os.listdir("DECK"):
         if not file == "back.png":
-            CARD_IMAGES.append((remove_extension(file), img.readImg(os.getcwd() + "/DECK/" + file)))
+            CARD_IMAGES.append((remove_extension(file), img.readImg("DECK/" + file)))
     return CARD_IMAGES
 
 def remove_extension(file):
