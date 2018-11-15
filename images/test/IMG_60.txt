@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_60.png
+width: 427
+height: 414
+class: 5s
+xmin: 21
+xmax: 188
+ymin: 102
+ymax: 340

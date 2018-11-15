@@ -2,7 +2,7 @@ file: ObjectDetectionRepo/images/train/IMG_51.png
 width: 427
 height: 414
 class: 2s
-xmin: 51
-xmax: 324
-ymin: 119
-ymax: 377
+xmin: 11
+xmax: 285
+ymin: 90
+ymax: 341

@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_82.png
-width: 427
-height: 414
-class: Js
-xmin: 98
-xmax: 290
-ymin: 143
-ymax: 395

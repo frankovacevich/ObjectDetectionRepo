@@ -2,7 +2,7 @@ file: ObjectDetectionRepo/images/train/IMG_35.png
 width: 600
 height: 414
 class: Js
-xmin: 87
-xmax: 289
-ymin: 67
-ymax: 324
+xmin: 112
+xmax: 380
+ymin: 47
+ymax: 273

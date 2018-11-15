@@ -2,7 +2,7 @@ file: ObjectDetectionRepo/images/train/IMG_42.png
 width: 600
 height: 414
 class: Qs
-xmin: 133
-xmax: 401
-ymin: 65
-ymax: 291
+xmin: 280
+xmax: 554
+ymin: 41
+ymax: 294

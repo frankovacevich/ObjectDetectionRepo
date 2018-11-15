@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_93.png
-width: 500
-height: 375
-class: 10s
-xmin: 245
-xmax: 454
-ymin: 6
-ymax: 250

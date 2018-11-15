@@ -2,7 +2,7 @@ file: ObjectDetectionRepo/images/train/IMG_26.png
 width: 600
 height: 414
 class: 9s
-xmin: 309
-xmax: 551
-ymin: 22
-ymax: 196
+xmin: 123
+xmax: 358
+ymin: 58
+ymax: 221

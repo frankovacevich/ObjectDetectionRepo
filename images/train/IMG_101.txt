@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_101.png
-width: 500
-height: 375
-class: 3s
-xmin: 193
-xmax: 433
-ymin: 121
-ymax: 366

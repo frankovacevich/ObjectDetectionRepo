@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_83.png
-width: 427
-height: 414
-class: Ks
-xmin: 96
-xmax: 369
-ymin: 11
-ymax: 256

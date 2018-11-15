@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_67.png
-width: 427
-height: 414
-class: 7s
-xmin: 171
-xmax: 397
-ymin: 33
-ymax: 301

@@ -2,7 +2,7 @@ file: ObjectDetectionRepo/images/train/IMG_37.png
 width: 600
 height: 414
 class: Ks
-xmin: 147
-xmax: 417
-ymin: 88
-ymax: 354
+xmin: 176
+xmax: 446
+ymin: 100
+ymax: 334

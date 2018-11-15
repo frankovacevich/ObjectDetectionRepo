@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_13.png
+width: 600
+height: 414
+class: 5s
+xmin: 30
+xmax: 274
+ymin: 155
+ymax: 333

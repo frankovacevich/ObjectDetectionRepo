@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_5.png
+width: 600
+height: 414
+class: 2s
+xmin: 111
+xmax: 384
+ymin: 104
+ymax: 359

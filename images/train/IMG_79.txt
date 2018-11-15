@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_79.png
-width: 427
-height: 414
-class: As
-xmin: 67
-xmax: 305
-ymin: 71
-ymax: 238

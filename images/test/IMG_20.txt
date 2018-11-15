@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_20.png
+width: 600
+height: 414
+class: 7s
+xmin: 115
+xmax: 388
+ymin: 52
+ymax: 312

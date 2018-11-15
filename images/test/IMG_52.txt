@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_52.png
+width: 427
+height: 414
+class: 2s
+xmin: 59
+xmax: 320
+ymin: 43
+ymax: 251

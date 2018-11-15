@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_17.png
+width: 600
+height: 414
+class: 6s
+xmin: 328
+xmax: 562
+ymin: 71
+ymax: 341

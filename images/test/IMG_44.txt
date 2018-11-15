@@ -1,0 +1,13 @@
+file: ObjectDetectionRepo/images/test/IMG_44.png
+width: 600
+height: 414
+class: 9s
+xmin: 335
+xmax: 596
+ymin: 90
+ymax: 298
+class: Js
+xmin: 75
+xmax: 313
+ymin: 121
+ymax: 288

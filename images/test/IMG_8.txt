@@ -1,0 +1,8 @@
+file: ObjectDetectionRepo/images/test/IMG_8.png
+width: 600
+height: 414
+class: 3s
+xmin: 102
+xmax: 257
+ymin: 72
+ymax: 302
