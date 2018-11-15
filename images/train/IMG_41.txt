@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_41.png
-width: 600
-height: 414
-class: Qs
-xmin: 299
-xmax: 522
-ymin: 121
-ymax: 388

@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_19.png
-width: 600
-height: 414
-class: 7s
-xmin: 158
-xmax: 431
-ymin: 97
-ymax: 346

@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/test/IMG_54.png
-width: 427
-height: 414
-class: 3s
-xmin: 130
-xmax: 384
-ymin: 50
-ymax: 246

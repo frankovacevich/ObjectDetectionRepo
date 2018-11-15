@@ -1,8 +1,0 @@
-file: ObjectDetectionRepo/images/train/IMG_4.png
-width: 600
-height: 414
-class: 2s
-xmin: 109
-xmax: 276
-ymin: 44
-ymax: 282
