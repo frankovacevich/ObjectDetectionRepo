@@ -42,6 +42,7 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
                     rectangle.append(card[0])
                     save_image_and_label(image, [rectangle], set_name)
 
+            ##GENERATE PAIR SET
             for j in range(0, N_pairs):
                 card1 = CARD_IMAGES[random.randint(0, len(CARD_IMAGES) - 1)]
                 card2 = CARD_IMAGES[random.randint(0, len(CARD_IMAGES) - 1)]
@@ -52,6 +53,7 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
                 rectangle2.append(card2[0])
                 save_image_and_label(image, [rectangle1, rectangle2], set_name)
 
+            ##GENERATE TRIO SET
             for j in range(0, N_trios):
                 card1 = CARD_IMAGES[random.randint(0, len(CARD_IMAGES) - 1)]
                 card2 = CARD_IMAGES[random.randint(0, len(CARD_IMAGES) - 1)]
@@ -118,9 +120,9 @@ def get_card_image_set():
               vector of tuples (class, image)
     """
     CARD_IMAGES = []
-    for file in os.listdir("ObjectedDetection/images/DECK"):
+    for file in os.listdir("ObjectedDetectionRepo/images/DECK"):
         if not file == "back.png":
-            CARD_IMAGES.append((remove_extension(file), img.readImg("ObjectedDetection/images/DECK/" + file)))
+            CARD_IMAGES.append((remove_extension(file), img.readImg("DECK/" + file)))
     return CARD_IMAGES
 
 def remove_extension(file):
