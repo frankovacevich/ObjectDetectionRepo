@@ -21,10 +21,10 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
 
     CARD_IMAGES = get_card_image_set()
 
-    TotalNumberOfBackgrounds = 5640
+    TotalNumberOfBackgrounds = 1800
     StepSize = int(TotalNumberOfBackgrounds / N_backgrounds)
     i = 0
-    with open("ObjectDetectionRepo/BACKGROUNDS/labels/test1.txt") as background_list:
+    with open("ObjectDetectionRepo/images/BACKGROUNDS/labels/test1.txt") as background_list:
         for line in background_list:
             i += 1
             if i != StepSize:
