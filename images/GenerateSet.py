@@ -90,7 +90,6 @@ def save_image_and_label(image, rectangles, set_name):
     f_out = open(DIR + set_name + "/" + filename + ".txt","w+",encoding="UTF8")
     f_out.write(metadata)
     f_out.close()
-    print(i_write)
 
 def place_card_at_random_position(background_image, card_image):
     """
