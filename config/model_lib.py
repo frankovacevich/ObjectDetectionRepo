@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-r"""Constructs model, inputs, and training environment."""
+"""Constructs model, inputs, and training environment."""
 
 from __future__ import absolute_import
 from __future__ import division
