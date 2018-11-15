@@ -87,7 +87,7 @@ def save_image_and_label(image, rectangles, set_name):
         metadata += "\n" + "ymin: " + str(rectangle[2])
         metadata += "\n" + "ymax: " + str(rectangle[3])
 
-    f_out = open(set_name + "/" + filename + ".txt","w+",encoding="UTF8")
+    f_out = open(DIR + set_name + "/" + filename + ".txt","w+",encoding="UTF8")
     f_out.write(metadata)
     f_out.close()
     print(i_write)
