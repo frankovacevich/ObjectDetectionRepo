@@ -45,7 +45,7 @@ def resizeImg(img, W, H):
     h = size[1]
     Fx = W/w
     Fy = H/h
-    return cv2.resize(img, (0,0), fx = scale_factor, fy = scale_factor)
+    return cv2.resize(img, (0,0), fx = Fx, fy = Fy)
 
 def resizeCanvas(img, X, Y):
     M = np.float32([[1, 0, 0], [0, 1, 0]])
