@@ -39,6 +39,14 @@ def saveToFile(img, filename):
 def scaleImg(img, scale_factor):
     return cv2.resize(img, (0,0), fx = scale_factor, fy = scale_factor)
 
+def resizeImg(img, W, H):
+    size = getImgSize(img)
+    w = size[0]
+    h = size[1]
+    Fx = W/w
+    Fy = H/h
+    return cv2.resize(img, (0,0), fx = scale_factor, fy = scale_factor)
+
 def resizeCanvas(img, X, Y):
     M = np.float32([[1, 0, 0], [0, 1, 0]])
     return cv2.warpAffine(img, M, (X, Y))
