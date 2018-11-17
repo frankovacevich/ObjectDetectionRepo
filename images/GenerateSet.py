@@ -112,7 +112,7 @@ def place_card_at_random_position(background_image, card_image):
     ymax = ymin + h
 
     output = img.placeImg(card_image, background_image, xmin, ymin)
-    output = img.adjustGamma(output, random.uniform(0.5,2.5))
+    output = img.adjustGamma(output, random.uniform(0.9,2.5))
 
     return (output, [xmin, xmax, ymin, ymax])
 
