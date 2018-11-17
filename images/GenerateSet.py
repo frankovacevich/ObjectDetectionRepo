@@ -35,7 +35,8 @@ def GenerateSet(set_name = "train", Nbackgrounds = 60, Nsingle = 3, Npairs = 3, 
 
             line = line.replace("\n","")
             background_image = img.readImg(DIR + "BACKGROUNDS/images/" + line)
-
+            background_image = img.resizeImg(background_image, 864, 468)
+            
             ##GENERATE SINGLE SET
             for card in CARD_IMAGES:
                 for j in range(0, N_single):
