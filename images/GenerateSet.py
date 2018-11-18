@@ -130,17 +130,3 @@ def get_card_image_set():
 def remove_extension(file):
     return file[:file.rfind(".")]
 
-
-argc = len(sys.argv)
-argv = sys.argv
-
-print("")
-print("Function GenerateSet ( set_name , Nbackground , Nsingles , Npairs , Ntrios )")
-print("")
-
-if argc == 1:
-    GenerateSet()
-elif argc == 2:
-    GenerateSet(argv[1])
-elif argc == 6:
-    GenerateSet(argv[1],int(argv[2]),int(argv[3]),int(argv[4]),int(argv[5]))
