@@ -74,10 +74,10 @@ def save_image_and_label(image, rectangles, set_name):
     global i_write
     i_write += 1
     filename = "IMG_" + str(i_write)
-    img.saveToFile(image,DIR + set_name + "/" + filename + ".png")
+    img.saveToFile(image,DIR + set_name + "/" + filename + ".JPG")
     w,h,c = img.getImgSize(image)
 
-    metadata =  "file: " + DIR + set_name + "/" + filename + ".png"
+    metadata =  "file: " + DIR + set_name + "/" + filename + ".JPG"
     metadata += "\nwidth: " + str(w)
     metadata += "\nheight: " + str(h)
 
