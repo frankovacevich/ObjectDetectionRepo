@@ -99,7 +99,7 @@ def place_card_at_random_position(background_image, card_image):
     """
     w,h,c = img.getImgSize(card_image)
     W,H,C = img.getImgSize(background_image)
-    scale_factor = 0.55 * H/h
+    scale_factor = SET_SCALE_FACTOR * H/h
 
     card_image = img.placeImg(card_image,imageblack,0,0)
     card_image = img.scaleImg(card_image,scale_factor)
